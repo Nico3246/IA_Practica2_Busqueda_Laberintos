@@ -4,8 +4,6 @@ Práctica universitaria de **Inteligencia Artificial** desarrollada en **Python*
 
 El programa permite generar o cargar laberintos y resolverlos mediante distintos algoritmos de búsqueda no informada e informada, mostrando métricas básicas como nodos expandidos, profundidad alcanzada, tamaño máximo de la estructura de datos utilizada y tiempo de ejecución.
 
-> Este repositorio tiene finalidad académica y refleja el desarrollo realizado durante la práctica.
-
 ---
 
 ## Objetivos de la práctica
